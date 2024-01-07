@@ -1,3 +1,5 @@
+https://www.geeksforgeeks.org/javascript/
+https://www.w3schools.com/js/default.asp
 https://overapi.com/javascript
 
 /* *******************************************************************************************
